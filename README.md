@@ -7,16 +7,16 @@
 
 ## Installation
 1. [Install package control](http://wbond.net/sublime_packages/package_control/installation), access the Sublime Text 2 console by typing  *ctrl+`* then enter:
-	
-	import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation'
+
+		import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation'
 
 2. Go to your packages directory:
 
-    cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
+		cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
 
 3. Install required extensions/themes:
 
-    git clone https://github.com/buymeasoda/soda-theme/ "Theme - Soda"
+		git clone https://github.com/buymeasoda/soda-theme/ "Theme - Soda"
 
 4. Move the settings files in this repository into your packages directory.
 
