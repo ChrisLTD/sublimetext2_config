@@ -31,10 +31,11 @@
 
 ## Keyboard reference
 * Bring up command menu = [Command+Shift+p]
-* Fuzzy search = [Command+P]
+* Fuzzy search = [Command+p]
 * Column selection = [Option + drag]
 * Multiple selection = [Command + select]
 * Distraction free mode = [Control + Command + f]
+* See list of functions/css definitions = [Command + r]
 
 ### Vin(tage) mode
 * Bring up VI command mode = [Esc]
