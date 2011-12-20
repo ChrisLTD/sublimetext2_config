@@ -31,6 +31,7 @@
 
 ## Keyboard reference
 * Bring up command menu = [Command+Shift+p]
+* Fuzzy search = [Command+P]
 * Column selection = [Option + drag]
 * Multiple selection = [Command + select]
 * Distraction free mode = [Control + Command + f]
