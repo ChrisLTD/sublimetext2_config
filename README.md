@@ -4,6 +4,7 @@
 * [Package control plugin](http://wbond.net/sublime_packages/package_control)
 * [Soda theme](https://github.com/buymeasoda/soda-theme)
 * [Inconsolata-dz Font](http://nodnod.net/2009/feb/12/adding-straight-single-and-double-quotes-inconsola/)
+* [Icon by Daniel Matarazzo](https://github.com/dmatarazzo/Sublime-Text-2-Icon)
 
 ## Installation
 1. [Install package control](http://wbond.net/sublime_packages/package_control/installation), access the Sublime Text 2 console by typing  *ctrl+`* then enter:
