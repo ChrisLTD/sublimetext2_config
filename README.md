@@ -31,5 +31,14 @@
 
 ## Keyboard reference
 * Bring up command menu = [Command+Shift+p]
+* Column selection = [Option + drag]
+* Multiple selection = [Command + select]
+* Distraction free mode = [Control + Command + f]
+
+### Vin(tage) mode
 * Bring up VI command mode = [Esc]
+* Insert mode = [i]
+* Jump to line = line number + G
+
+### Zen Coding
 * Expand Zen Coding HTML = [Tab]
