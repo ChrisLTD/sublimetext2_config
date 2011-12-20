@@ -21,6 +21,10 @@
 
 4. Move the settings files in this repository into your packages directory.
 
+5. Install command line 'subl' tool
+
+		sudo ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/bin/subl
+
 ## Notes
 * Currently using ["Vintage mode"](http://www.sublimetext.com/docs/2/vintage.html) which is a mini VI command mode
 * Installed Zen Coding through Package Control
