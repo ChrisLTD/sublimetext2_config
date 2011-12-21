@@ -1,10 +1,8 @@
-// Place user-specific overrides in this file, to ensure they're preserved
-// when upgrading
 {
-	"ignored_packages": [], // Removed "vintage" to turn on vi mode
-	
-	"theme": "Soda Dark.sublime-theme",
-		
+	"ignored_packages":
+	[
+	],
 	"tab_size": 4,
-   	"translate_tabs_to_spaces": false
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": false
 }
