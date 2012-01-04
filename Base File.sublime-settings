@@ -3,5 +3,6 @@
 	"font_face": "Incosolata-dz",
 	"font_size": 13.0,
 	"line_padding_bottom": 3,
-	"tab_size": 2
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true
 }
