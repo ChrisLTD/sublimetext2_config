@@ -41,6 +41,7 @@
 * Bring up VI command mode = [Esc]
 * Insert mode = [i]
 * Jump to line = line number + G
+* Toggle case = visual select then + g~ (gU = upper, gu = lower)
 
 ### Zen Coding
 * Expand Zen Coding HTML = [Tab]
