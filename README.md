@@ -42,6 +42,7 @@
 * Insert mode = [i]
 * Jump to line = line number + G
 * Toggle case = visual select then + g~ (gU = upper, gu = lower)
+* Delete between tags = dit
 
 ### Zen Coding
 * Expand Zen Coding HTML = [Tab]
